@@ -147,4 +147,6 @@ const helpers = {
 
 };
 
+window.helpers = helpers;
+
 export default helpers
